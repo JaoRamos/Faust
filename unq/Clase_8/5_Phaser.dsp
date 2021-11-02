@@ -7,7 +7,9 @@ las relaciones de FASE de estas frecuencias. Si luego sumamos su resultado con l
 original, produciremos cancelaciones y todo tipo de efectos de fase en distintas partes
 del espectro. Finalmente, si incorporamos una modulación en el parametro de retardo del
 filtro all-pass, haremos que estas cancelaciones cambien constantemente, produciendo
-el efecto que conocemos como PHASER.
+el efecto que conocemos como PHASER. A diferencia de un flanger, por lo general un phaser
+no guarda una relación específica (ni armónica...) entre las posiciones de los valles que
+se producen en el espectro; el efecto es similar, pero presenta "otro color".
 
 Aquí tenemos un ejemplo de un phaser de 5 etapas, pero en dos canales independientes
 para tener un pseudo phaser estereo. Simplemente reusamos la misma definicion y le ponemos
