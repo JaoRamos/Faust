@@ -34,4 +34,4 @@ Para hacerlo más simple se generaron 3 reflexiones tempranas, y 3 bucles de rea
 para copiar/descargar el código.
 - Para entregar el TP se recomienda subir el archivo .dsp al campus *en la sección de entregas*, o en su defecto copiar y pegar el código allí. Pueden adjuntar también imágenes si lo desean.
 - Recomiendo este video https://youtu.be/t2R_ma7A2EQ?t=86 (ver entre 1:25 y 7:14, no hace falta entender la matemática etc!!) para comprender un poco mejor lo que ocurre con el sonido en una sala o cualquier recinto.
-- Si se sienten muy nerds: la velocidad del sonido en el aire es aproximadamente 343 metros por segundo (m/s), eso quiere decir que el sonido tarda unos 2.91ms en recorrer 1 metro (podríamos redondearlo en 3ms). Es una referencia útil a la hora de imaginar cuánto puede tardar cada reflejo según la distancia que recorre :)
+- Si se sienten muy nerds: la velocidad del sonido en el aire es aproximadamente 343m/s (metros por segundo), eso quiere decir que el sonido tarda unos 2.91ms en recorrer 1 metro (podríamos redondearlo en 3ms). Es una referencia útil a la hora de imaginar cuánto puede tardar cada reflejo según la distancia que recorre :)
