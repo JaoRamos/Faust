@@ -3,7 +3,7 @@
 
 __Consigna__
 
-> **Note**
+> [!IMPORTANT]
 > Tomando como base el código en https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp1/tp1programacion.dsp modificar los parámetros de tiempos (y ganancias * opcionalmente) de todos los retardos del ejemplo, con el fin de simular muy a groso modo la acústica de alguna habitación o recinto de la vida real.  
 > Aclarar en un comentario en el código (o adjuntar fotografía si se desea) qué habitación o recinto se tomó de ejemplo.  
 
