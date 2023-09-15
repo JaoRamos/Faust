@@ -13,7 +13,7 @@ Por ejemplo:
 pared1(in, dif) = in : @(msSamples(68  + dif)) * 0.60;
 ```
 Aquí podemos modificar el número 68 que representa 68ms de retardo, y opcionalmente el *0.60 que es la ganancia de ese retardo.
-- **Importante:** los valores pueden buscarse simplemente a oido, probando, como para ir familiarizándonos mejor con qué efecto nos da al oido una u otra cantidad de retardo, y la combinación de varios al mismo tiempo.  
+- **Importante:** los valores pueden buscarse simplemente a oido, probando, como para ir familiarizándonos mejor con el efecto que nos da al oido una u otra cantidad de retardo, y la combinación de varios al mismo tiempo.  
 - Opcional: se pueden modificar otros parámetros, añadir sliders si se desea, e incluso añadir más cantidad de reflejos y bucles de realimentación.
 - Opcional avanzado: puede analizarse la forma de onda de una respuesta impulso (ver video abajo de todo) e intentar copiar los tiempos e intensidades aproximadas de algunos reflejos.
 
