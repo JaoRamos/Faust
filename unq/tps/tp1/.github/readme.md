@@ -4,16 +4,15 @@
 __Consigna__
 
 > [!IMPORTANT]
-> Tomando como base el código en https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp1/tp1programacion.dsp modificar los parámetros de tiempos (y ganancias * opcionalmente) de todos los retardos del ejemplo, con el fin de simular muy a groso modo la acústica de alguna habitación o recinto de la vida real.  
-> Aclarar en un comentario en el código (o adjuntar fotografía si se desea) qué habitación o recinto se tomó de referencia.  
+> Tomando como base el código en https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp1/tp1programacion.dsp modificar los parámetros de tiempos (y ganancias * opcionalmente) de todos los retardos del ejemplo, con el fin de simular muy _a grosso modo_ la acústica de alguna habitación o recinto de la vida real. Estos valores pueden buscarse simplemente a oido: _probando y viendo qué pasa_, como para ir familiarizándonos mejor con el efecto que nos da al oido una u otra cantidad de retardo, y la combinación de varios retardos al mismo tiempo.
+> Aclarar en un comentario del código qué habitación o recinto se tomó de referencia (o adjuntar fotografía si se desea).  
 
 Por ejemplo: 
 
 ```cpp 
 pared1(in, dif) = in : @(msSamples(68  + dif)) * 0.60;
 ```
-Aquí podemos modificar el número 68 que representa 68ms de retardo, y opcionalmente el *0.60 que es la ganancia de ese retardo.
-- **Importante:** los valores pueden buscarse simplemente a oido, probando, como para ir familiarizándonos mejor con el efecto que nos da al oido una u otra cantidad de retardo, y la combinación de varios al mismo tiempo.  
+Aquí podemos modificar el número 68 que representa 68ms de retardo, y opcionalmente el *0.60 que es la ganancia de ese retardo.  
 - Opcional: se pueden modificar otros parámetros, añadir sliders si se desea, e incluso añadir más cantidad de reflejos y bucles de realimentación.
 - Opcional avanzado: puede analizarse la forma de onda de una respuesta impulso (ver video abajo de todo) e intentar copiar los tiempos e intensidades aproximadas de algunos reflejos.
 
