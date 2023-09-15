@@ -27,7 +27,7 @@ Para hacerlo más simple se generaron 3 reflexiones tempranas, y 3 bucles de rea
 
 ## Notas
 
-- La variable dif solo añade una pequeña diferencia en caso de querer usar mas de un canal (mono), como para poder simular un efecto estereo muy rudimentario.
+- La variable dif solo añade una pequeña diferencia en el tiempo de retardo en caso de querer usar mas de un canal (mono), como para poder simular un efecto estereo muy rudimentario.
 - Un caso real de reverberacion tendrá además todo tipo de filtraciones y coloreos producidos por las características de las superficies del recinto y el propio aire, podemos simular algo de eso con filtros pero aún no lo hemos visto en clase :)  
 - Para utilizar el código se puede copiar y pegar directamente, o bien utilizar los botones de GitHub ![image](https://github.com/JaoRamos/Faust/assets/64828457/22d0dc5a-b860-4710-8df7-cedf4ef0dafd)
 para copiar/descargar el código.
