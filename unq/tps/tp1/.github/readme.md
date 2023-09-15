@@ -19,7 +19,9 @@ Aquí podemos modificar el número 68 que representa 68ms de retardo, y opcional
 
 ## Fundamentación
 
-La idea detrás de este código es producir una reverberación muy básica, tomando un modelo simplificado de **sonido directo** + **reflexiones tempranas** + **cola reverberante**  
+La idea detrás de este código es producir una reverberación muy básica, tomando un modelo simplificado de
+>**sonido directo** + **reflexiones tempranas** + **cola reverberante**  
+
 Para hacerlo más simple se generaron 3 reflexiones tempranas, y 3 bucles de realimentacion para crear la cola reverberante. En una situación más realista habría múltiples reflejos por todas partes en un recinto hasta conformar un campo reverberante difuso.
 <img src="https://github.com/JaoRamos/Faust/assets/64828457/67a644a2-85d0-49a8-8d99-551f897bd4a3" width="690" height="319">  
 <sup>(modificado desde imagen original https://www.eumus.edu.uy/eme/ensenanza/acustica/presentaciones/acuarq/acu10d.html)</sup>
