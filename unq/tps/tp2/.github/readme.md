@@ -11,7 +11,7 @@ __Consigna__
 > - Control de las notas vía MIDI o Teclado de PC. Opcionalmente puede ser "sensitivo", es decir: que utilice el parámetro "gain" correspondiente al Velocity MIDI (intensidad con la que se toca la nota).
 > Siendo este el MÍNIMO de requisitos, después puede expandirse completamente a gusto, por ejemplo añadiendo filtros, más osciladores, más envolventes, etc etc...
 > El sonido final es libre y a gusto propio, pero también es válido intentar imitar el sonido de un sintetizador de alguna canción o instrumento musical, sin necesidad de que sea perfecto.
-> En https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp2/tp1programacion.dsp pueden encontrar un código de base como ejemplo, aunque está incompleto.
+> En https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp2/ejemplo_tp2.dsp pueden encontrar un código de base como ejemplo, aunque está incompleto.
 
 ## Notas
 
