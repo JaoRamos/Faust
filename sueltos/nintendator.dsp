@@ -3,7 +3,7 @@ Nintendator
 
 Efecto que combina bitcrusher (reduccion de profundidad de bits), con downsample de frecuencia de muestreo (hold crudo, sin interpolacion).
 
-Con ambos valores al maximo la señal se escucha casi normal (ligero efecto del downsample a 44k).
+Con ambos valores al maximo la señal se escucha casi normal (ligero efecto del downsample a 40k).
 
 Se incluye un filtro lowpass para hacer un antialias agresivo en el "nuevo" nyquist (f/2).
 
