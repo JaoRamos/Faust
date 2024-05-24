@@ -11,7 +11,9 @@ __Consigna__
 > - Procesos/efectos/síntesis como parte de una obra (arte sonoro, música popular, electroacústica, etc...)
 
 > ¡¡¡Mucho mejor aún si es algo que se va a aprovechar en una obra o canción o trabajo propio!!!
+
 > Se deben incluir comentarios de funcionamiento de las partes.
+
 > Incluir un encabezado (como comentario en bloque) con nombre, apellido, título del proyecto e instrucciones de uso en caso de ser necesarias.
 
 > No se aceptarán trabajos que estén basados en los ejemplos de clase con mínimos cambios... Se puede "partir" de los ejemplos pero *debe haber un desarrollo personal sustancial*.
