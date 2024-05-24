@@ -1,17 +1,18 @@
-# Trabajo práctico 2
-## Creación de un sintetizador simple
+# Trabajo práctico 1
+## Creación de un delay estereo con feedback
 
 __Consigna__
 
 > [!IMPORTANT]
-> Crear un sintetizador que tenga como mínimo:
-> - 1 oscilador, de cualquier forma de onda (elegir a gusto)
-> - 1 envolvente dinámica (tipo y parámetros a gusto)
-> - Salida a dos canales, L y R, pueden ser ambos iguales o presentar alguna diferencia para un mayor efecto estereo
-> - Control de las notas vía MIDI o Teclado de PC. Opcionalmente puede ser "sensitivo", es decir: que utilice el parámetro "gain" correspondiente al Velocity MIDI (intensidad con la que se toca la nota).
-> Siendo este el MÍNIMO de requisitos, después puede expandirse completamente a gusto, por ejemplo añadiendo filtros, más osciladores, más envolventes, etc etc...
-> El sonido final es libre y a gusto propio, pero también es válido intentar imitar el sonido de un sintetizador de alguna canción o instrumento musical, sin necesidad de que sea perfecto.
-> En https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp2/ejemplo_tp2.dsp pueden encontrar un código de base como ejemplo, aunque está incompleto.
+> Crear un efecto de delay que tenga COMO MÍNIMO:
+> - 1 entrada mono (puede ser estereo si se desea)
+> - 2 líneas de delay CON FEEDBACK (pueden ser más, pero mínimo UNA por canal de salida)
+> - Salida a dos canales, L y R. Idealmente presentará "alguna diferencia" (a gusto) entre los dos canales para un mayor efecto estereo.
+> - Controles de usuario a gusto, pero procurar que sean lógicos y prácticos de usar.
+> - Es opcional pero IDEAL incorporar filtros para lograr efectos estéticos. En general se colocan filtros dentro del bucle de feedback, experimentar estéticamente a gusto.
+> Siendo este el MÍNIMO de requisitos, después puede expandirse el efecto completamente a gusto.
+> Super importante: hacer comentarios en el código incluyendo nombre y apellido, y descripción de lo que se buscó o del funcionamiento.
+> En https://github.com/JaoRamos/Faust/blob/master/unq/tps/tp1/ejemplo_tp1.dsp pueden encontrar un código de base como ejemplo, aunque está incompleto.
 
 ## Notas
 
