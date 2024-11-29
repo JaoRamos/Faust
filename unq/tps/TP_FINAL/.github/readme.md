@@ -2,8 +2,8 @@
 
 __Consigna__
 
-> [!IMPORTANT]
-> Desarrollar un sintetizador o efecto libre. Algunas opciones:
+> [!IMPORTANTE]
+> Desarrollar un sintetizador o efecto libre. Algunas opciones (pueden ser otras!):
 > - Efectos/multiefectos para instrumentos como guitarras o bajos etc...
 > - Efectos para voces
 > - Efectos y procesos para mezcla de música como compresores, saturadores, modulaciones, etc
@@ -19,5 +19,6 @@ __Consigna__
 > No se aceptarán trabajos que estén basados en los ejemplos de clase con mínimos cambios... Se puede "partir" de los ejemplos pero *debe haber un desarrollo personal sustancial*.
 
 ## Notas
-
-- Para entregar el TP se recomienda subir el archivo .dsp al campus *en la sección de Entrega TP Final !*, o en su defecto copiar y pegar el código allí. Pueden adjuntar también imágenes si lo desean.
+- Entregar los TPs por google drive en carpeta compartida al grupo de whatsapp, en subcarpeta con nombre y apellido
+  
+<!-- - Para entregar el TP se recomienda subir el archivo .dsp al campus *en la sección de Entrega TP Final !*, o en su defecto copiar y pegar el código allí. Pueden adjuntar también imágenes si lo desean. -->
